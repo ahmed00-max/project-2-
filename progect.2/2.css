@@ -1,0 +1,30 @@
+body {
+    background-color: #e9ecef;
+}
+.navbar {
+    background-color: #007bff;
+}
+.navbar-brand, .nav-link {
+    color: #fff;
+}
+.hero {
+    background: url('your-hero-image-url.jpg') no-repeat center center;
+    background-size: cover;
+    height: 400px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+<body>
